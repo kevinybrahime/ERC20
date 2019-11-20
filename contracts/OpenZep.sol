@@ -253,7 +253,7 @@ library SafeMath {
  * functions have been added to mitigate the well-known issues around setting
  * allowances. See {IERC20-approve}.
  */
-contract ERC20 is Context, IERC20 {
+contract KevinY is Context, IERC20 {
     using SafeMath for uint256;
 
     mapping (address => uint256) private _balances;
@@ -268,7 +268,6 @@ contract ERC20 is Context, IERC20 {
     function totalSupply() public view returns (uint256) {
         return _totalSupply;
     }
-
     /**
      * @dev See {IERC20-balanceOf}.
      */
