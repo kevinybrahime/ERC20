@@ -1,0 +1,104 @@
+{
+  "contractName": "ERC165NotSupported",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.5.12+commit.7709ece9\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/C/Users/kev-y/OneDrive - De Vinci/ESILV/A5/Monnaies Num\\u00e9riques/ERC20/contracts/openzeppelin/contracts/mocks/ERC165/ERC165NotSupported.sol\":\"ERC165NotSupported\"},\"evmVersion\":\"petersburg\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/C/Users/kev-y/OneDrive - De Vinci/ESILV/A5/Monnaies Num\\u00e9riques/ERC20/contracts/openzeppelin/contracts/mocks/ERC165/ERC165NotSupported.sol\":{\"keccak256\":\"0x250ba4456a658074bf73519eafc2938b08c06cd86123ccf5c3e4b8775b1385a2\",\"urls\":[\"bzz-raw://f3106638cba7198f8853117733235aad52f56e21a53dd3e9d43a2abe6610b894\",\"dweb:/ipfs/QmZF3jmzYEctT7p1HUCoiiZh7JYLfjYzKD1mAixcMoQqXY\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603e80601d6000396000f3fe6080604052600080fdfea265627a7a72315820e20a16095c6f8dccfc4ee79f1bad5a4422ebce943a8fca0801f9f8e05229636b64736f6c634300050c0032",
+  "deployedBytecode": "0x6080604052600080fdfea265627a7a72315820e20a16095c6f8dccfc4ee79f1bad5a4422ebce943a8fca0801f9f8e05229636b64736f6c634300050c0032",
+  "sourceMap": "25:84:60:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;25:84:60;;;;;;;",
+  "deployedSourceMap": "25:84:60:-;;;;;",
+  "source": "pragma solidity ^0.5.0;\n\ncontract ERC165NotSupported {\n    // solhint-disable-previous-line no-empty-blocks\n}\n",
+  "sourcePath": "C:/Users/kev-y/OneDrive - De Vinci/ESILV/A5/Monnaies Numériques/ERC20/contracts/openzeppelin/contracts/mocks/ERC165/ERC165NotSupported.sol",
+  "ast": {
+    "absolutePath": "/C/Users/kev-y/OneDrive - De Vinci/ESILV/A5/Monnaies Numériques/ERC20/contracts/openzeppelin/contracts/mocks/ERC165/ERC165NotSupported.sol",
+    "exportedSymbols": {
+      "ERC165NotSupported": [
+        7169
+      ]
+    },
+    "id": 7170,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 7168,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:60"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 7169,
+        "linearizedBaseContracts": [
+          7169
+        ],
+        "name": "ERC165NotSupported",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 7170,
+        "src": "25:84:60"
+      }
+    ],
+    "src": "0:110:60"
+  },
+  "legacyAST": {
+    "absolutePath": "/C/Users/kev-y/OneDrive - De Vinci/ESILV/A5/Monnaies Numériques/ERC20/contracts/openzeppelin/contracts/mocks/ERC165/ERC165NotSupported.sol",
+    "exportedSymbols": {
+      "ERC165NotSupported": [
+        7169
+      ]
+    },
+    "id": 7170,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 7168,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:60"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 7169,
+        "linearizedBaseContracts": [
+          7169
+        ],
+        "name": "ERC165NotSupported",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 7170,
+        "src": "25:84:60"
+      }
+    ],
+    "src": "0:110:60"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.12+commit.7709ece9.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.0.19",
+  "updatedAt": "2019-11-20T11:24:44.754Z",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
